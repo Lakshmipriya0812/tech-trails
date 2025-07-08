@@ -1,1 +1,1 @@
-# techavidity_learnings
+# learnings
